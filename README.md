@@ -4,7 +4,7 @@
 
 # Alessandro José dos Santos
 
-### Analista de Dados Júnior · Python · Automação · Inteligência Artificial
+### Analista de Dados Júnior · SQL · Power BI · Python · IA
 
 Profissional em transição para Ciência de Dados, com **mais de 12 anos de experiência técnica em telecomunicações**<br>
 e formação em andamento em **Ciência de Dados e Inteligência Artificial**.
@@ -39,6 +39,8 @@ Hoje direciono essa experiência para a área de dados. Curso graduação em **C
 <td valign="top" width="50%">
 
 **Análise de dados**
+- SQL: JOINs, CTEs e funções de janela
+- Power BI: Power Query, DAX e modelagem
 - Python e Pandas (DataFrames)
 - Tratamento, limpeza e preparação de bases
 - Análise exploratória e identificação de padrões
@@ -79,6 +81,8 @@ Hoje direciono essa experiência para a área de dados. Curso graduação em **C
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
@@ -96,6 +100,14 @@ Hoje direciono essa experiência para a área de dados. Curso graduação em **C
 ---
 
 ## Projetos em destaque
+
+### 🛠️ [Análise de Chamados de Rede com SQL](https://github.com/AlessandroMaxv10/analise-chamados-sql)
+Análise em **SQL** de 6 mil chamados de manutenção de uma rede de fibra óptica: 16 consultas, de agregações a **CTEs e funções de janela** (`RANK`, `LAG`), com uma VIEW de dados limpos. Mostrou que só **40,8%** dos chamados críticos cumprem o SLA, que os clientes que geram 85% da receita são os pior atendidos e que um POP de 2009 tem o dobro de falhas.<br>
+`SQL` `SQLite` `CTE` `Window functions` `Python`
+
+### 📊 [Dashboard de Manutenção de Rede no Power BI](https://github.com/AlessandroMaxv10/dashboard-chamados-powerbi)
+Dashboard em **Power BI** com 3 páginas (visão geral, SLA e atendimento, rede e causas), tratamento em **Power Query**, modelo em **esquema estrela**, tabela calendário e 10 medidas **DAX**. Mesma base do projeto de SQL, transformada em um painel de gestão.<br>
+`Power BI` `DAX` `Power Query` `Modelagem de dados`
 
 ### 📈 [Padrões de candles preveem o preço no curto prazo?](https://github.com/AlessandroMaxv10/estudo-padroes-candles)
 Estudo estatístico com **50 mil candles reais** de 5 criptomoedas, coletados da API pública da Binance. Testa 6 padrões de candles e o cruzamento de médias móveis com backtest, intervalo de confiança de Wilson, teste binomial com correção de Bonferroni, validação walk-forward, Brier score e um grupo de controle aleatório. Conclusão: nenhum padrão mostrou poder de previsão duradouro; a pequena vantagem de 1 minuto desaparece em 5 minutos.<br>
@@ -168,7 +180,7 @@ Chatbot com interface web em Streamlit que conversa com um modelo de IA generati
 - **Visão de negócio:** formação em Administração e experiência com escalas, orçamento e atendimento a clientes corporativos
 - **Experiência com dados técnicos reais:** interpretação diária de medições, indicadores de qualidade e registros de chamados
 - **Trabalho sob pressão:** atendimento a rompimentos e incidentes com prazo e impacto em clientes
-- **Aprendizado contínuo:** graduação em andamento, certificações recentes com alto aproveitamento e 5 projetos publicados
+- **Aprendizado contínuo:** graduação em andamento, certificações recentes com alto aproveitamento e 7 projetos publicados
 
 ## Idiomas
 
@@ -176,6 +188,14 @@ Chatbot com interface web em Streamlit que conversa com um modelo de IA generati
 
 ---
 
+## Atividade no GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlessandroMaxv10&show_icons=true&hide_border=true&locale=pt-br&title_color=0E7C86&icon_color=0E7C86" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroMaxv10&layout=compact&hide_border=true&locale=pt-br&title_color=0E7C86" alt="Linguagens mais usadas" />
+</div>
+
+---
 
 <div align="center">
 
