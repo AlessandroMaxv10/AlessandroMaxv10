@@ -176,14 +176,6 @@ Chatbot com interface web em Streamlit que conversa com um modelo de IA generati
 
 ---
 
-## Atividade no GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlessandroMaxv10&show_icons=true&hide_border=true&locale=pt-br&title_color=0E7C86&icon_color=0E7C86" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroMaxv10&layout=compact&hide_border=true&locale=pt-br&title_color=0E7C86" alt="Linguagens mais usadas" />
-</div>
-
----
 
 <div align="center">
 
