@@ -14,7 +14,7 @@ e formação em andamento em **Ciência de Dados e Inteligência Artificial**.
 [![E-mail](https://img.shields.io/badge/E--mail-alle.alle1993@hotmail.com-14232E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alle.alle1993@hotmail.com)
 
 📧 **E-mail para contato:** [alle.alle1993@hotmail.com](mailto:alle.alle1993@hotmail.com)<br>
-📍 São Roque, SP · Disponível para trabalho **remoto ou híbrido** e viagens
+📍 São Roque, SP · Disponível para trabalho **presencial, híbrido ou remoto** e viagens
 
 </div>
 
@@ -28,7 +28,7 @@ Esse trabalho é, essencialmente, análise de dados aplicada: ler medições de 
 
 Hoje direciono essa experiência para a área de dados. Curso graduação em **Ciência de Dados e Inteligência Artificial** e desenvolvo projetos práticos em Python que cobrem o ciclo completo: coleta e automação, tratamento e análise estatística, visualização, aplicações web publicadas e IA, sempre com resultados documentados.
 
-**O que eu busco:** uma posição de **Analista de Dados Júnior**, em modelo remoto ou híbrido, onde eu possa contribuir com raciocínio analítico, organização e visão de negócio, e continuar evoluindo para engenharia de dados.
+**O que eu busco:** uma posição de **Analista de Dados Júnior**, em modelo presencial, híbrido ou remoto, onde eu possa contribuir com raciocínio analítico, organização e visão de negócio, e continuar evoluindo para engenharia de dados.
 
 ---
 
